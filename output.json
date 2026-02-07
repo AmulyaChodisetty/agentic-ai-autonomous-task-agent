@@ -1,0 +1,27 @@
+{
+    "goal": "Find the top 3 recent AI research papers on agriculture, summarize them, and store the output in a structured format.",
+    "generated_on": "2026-02-07T16:25:30.951872",
+    "results": [
+        {
+            "paper_id": 1,
+            "title": "Deep Learning for Crop Yield Prediction",
+            "authors": "A. Sharma et al.",
+            "year": 2024,
+            "summary": "The paper 'Deep Learning for Crop Yield Prediction' focuses on applying artificial intelligence techniques to agricultural problems. It proposes innovative methods to improve efficiency, decision-making, and sustainability in farming systems."
+        },
+        {
+            "paper_id": 2,
+            "title": "AI-Based Pest Detection in Smart Agriculture",
+            "authors": "L. Wang et al.",
+            "year": 2023,
+            "summary": "The paper 'AI-Based Pest Detection in Smart Agriculture' focuses on applying artificial intelligence techniques to agricultural problems. It proposes innovative methods to improve efficiency, decision-making, and sustainability in farming systems."
+        },
+        {
+            "paper_id": 3,
+            "title": "Reinforcement Learning for Precision Irrigation",
+            "authors": "M. Gonzalez et al.",
+            "year": 2023,
+            "summary": "The paper 'Reinforcement Learning for Precision Irrigation' focuses on applying artificial intelligence techniques to agricultural problems. It proposes innovative methods to improve efficiency, decision-making, and sustainability in farming systems."
+        }
+    ]
+}
